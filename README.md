@@ -16,3 +16,5 @@ Delete, Edit, Update Posts<br />
 Update Profile and Profile pictures<br />
 Password Reset Mail Functionality<br />
 See other People post on the timeline. <br />
+
+![image](https://user-images.githubusercontent.com/71806907/94344192-3825bd80-003b-11eb-9489-51e043273a50.png)
